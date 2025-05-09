@@ -1,8 +1,9 @@
 # go-git-prompt
 
-![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/sebastian-j-ibanez/fsync?color=00ADD8)
-![License](https://img.shields.io/github/license/sebastian-j-ibanez/fsync.svg?color=5E5CC4)
-[![Go Report Card](https://goreportcard.com/badge/github.com/sebastian-j-ibanez/fsync)](https://goreportcard.com/report/github.com/sebastian-j-ibanez/fsync)
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/sebastian-j-ibanez/go-git-prompt?logo=go&logoColor=white&color=00ADD8)
+![GitHub Release](https://img.shields.io/github/v/release/sebastian-j-ibanez/go-git-prompt?include_prereleases&logo=github&color=00ADD8)
+![License](https://img.shields.io/github/license/sebastian-j-ibanez/go-git-prompt.svg?logo=opensourceinitiative&logoColor=white&color=5E5CC4)
+[![Go Report Card](https://goreportcard.com/badge/github.com/sebastian-j-ibanez/go-git-prompt)](https://goreportcard.com/report/github.com/sebastian-j-ibanez/go-git-prompt)
 
 A cross-platform Git status prompt written in Go.
 
