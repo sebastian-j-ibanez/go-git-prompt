@@ -4,7 +4,7 @@ Copyright © 2025 NAME HERE <EMAIL ADDRESS>
 package cmd
 
 import (
-	"github.com/sebastian-j-ibanez/go-git-prompt/status"
+	"github.com/sebastian-j-ibanez/go-git-prompt/internal/status"
 	"github.com/spf13/cobra"
 )
 
